@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.imageThumbnail{
+    height : 200px;
+    width : auto;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+img {
+   
+    height :600px;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+btn{
+    width : 75px;
+}
